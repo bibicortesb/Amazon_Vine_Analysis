@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Project Overview
-Sellby is interested in what Big Data has to offer. Along with Jennifer I developed a project offer a quick overview of Big Data potencial by performing ETL Amazon Product Reviews to find valuable information.
+Sellby is interested in what Big Data has to offer. Along with Jennifer I developed a project that shows a quick overview of Big Data potencial by performing ETL Amazon Product Reviews to find valuable information.
 
 ### Purpose
 
@@ -14,8 +14,6 @@ In this project I will select a Music dataset to perform an ETL process, transfo
 - Software: Google Colab & pgadmin. 
 
 ## Results
-
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
 
 ### Data Transformation
 The first step was perform an ETL process to save four DataFrames in pgAdmin, linked with an RDS in AWS. 
