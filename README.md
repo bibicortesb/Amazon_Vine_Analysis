@@ -65,7 +65,7 @@ Out of these reviews, 58,315 --> 67.94% of the unpaid were 5 star reviews.
 
 Through the analysis, reviews from the vine program were filtered to have a numerical value of the amount of reviews with 5 stars that were paid and unpaid. After this, it can be said that there is no bias on the reviews. In the vine programm there is 0%, 5 star reviews. On the other hand, the non-vine program reviews show a 67.94% of 5 star reviews. In the music data set it can be concluded that paid 5-star reviews did not contribute to the bias of the result.  
 
-It is interesting to mention that this code works on every dataset of the reviews since they all share the same structure. The exact same analysis can be perform in other categoris such as movies or books. It is amazing to develop tool that enable reproducibility if data structures are consistent. Additionally, there is still a lot that can be performed with this data set. 
+It is interesting to mention that this code works on every dataset of the reviews since they all share the same structure. The exact same analysis can be perform in other categoris such as movies or books. It is amazing to develop tool that enable reproducibility if data structures are consistent. Additionally, there is still a lot that can be performed with this data set. By filtering the range 0-2 stars, it could even be determined if there's a bias for bad rates. Furthermore, in a different case where bias is present, we can evalaute with a t-test if there's a statistical difference between the means of 5 star rating paid and unpaid reviews. Certainly with the correct research question, the potential of Big Data is huge, as Sellby may discover. 
 
 
 
